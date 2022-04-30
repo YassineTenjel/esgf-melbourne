@@ -35,21 +35,21 @@ For each evaluation year `t`, you must report the performance considering `k=3`,
     <tbody>
         <tr>
             <td>1987</td>
-            <td></td>
-            <td></td>
-            <td></td>
+            <td>0.0267</td>
+            <td>0.008257</td>
+            <td>0.0277</td>
         </tr>
         <tr>
             <td>1988</td>
-            <td></td>
-            <td></td>
-            <td></td>
+            <td>0.0402</td>
+            <td>0.1512</td>
+            <td>0.1645</td>
         </tr>
         <tr>
             <td>1989</td>
-            <td></td>
-            <td></td>
-            <td></td>
+            <td>0.0277</td>
+            <td>0.0189</td>
+            <td>0.0198</td>
         </tr>
     </tbody>
 </table>
